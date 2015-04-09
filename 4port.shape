@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>FM - 4port</name>
+  <icon>4port.png</icon>
+  <connections>
+
+    <point x="2.97" y="0.13"/>
+    <point x="3.195" y="0.13"/>
+    <point x="3.42" y="0.13"/>
+    <point x="3.645" y="0.13"/>
+
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+
+    <svg:rect style="fill: #c0c0c0; fill-opacity:0; stroke-width: 0.01; stroke: #000000" x="2.9" y="0.07" width="0.15" height="0.12"/>
+    <svg:rect style="fill: #c0c0c0; fill-opacity:0; stroke-width: 0.01; stroke: #000000" x="3.125" y="0.07" width="0.15" height="0.12"/>
+    <svg:rect style="fill: #c0c0c0; fill-opacity:0; stroke-width: 0.01; stroke: #000000" x="3.35" y="0.07" width="0.15" height="0.12"/>
+    <svg:rect style="fill: #c0c0c0; fill-opacity:0; stroke-width: 0.01; stroke: #000000" x="3.575" y="0.07" width="0.15" height="0.12"/>
+
+
+  </svg:svg>
+</shape>
